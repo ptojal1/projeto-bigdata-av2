@@ -8,9 +8,10 @@
 **Instituição:** [Nome da Instituição]  
 **Disciplina:** Fundamentos de Big Data  
 **Equipe:**
-- Pedro Tojal de Medeiros
-- [Membro 2]  
-- [Membro 3]
+- Pedro Tojal
+- Henrique Leal
+- Gabriel Galdino
+- Lorenzo Marcelino
 
 **Data:** Dezembro de 2025
 
