@@ -420,11 +420,6 @@ A indústria cinematográfica apresenta padrões claros que podem auxiliar na to
 3. **BI Tools:** Integrar com ferramentas como Tableau ou Power BI
 4. **CI/CD:** Implementar pipelines de integração e deploy contínuo
 
-### 8.4 Dados Adicionais
-
-1. **Enriquecimento:** Integrar dados de redes sociais (Twitter, Reddit)
-2. **Atualização:** Manter dataset atualizado com novos lançamentos
-3. **Fontes Complementares:** Adicionar dados de bilheteria global, streaming, etc.
 
 ---
 
