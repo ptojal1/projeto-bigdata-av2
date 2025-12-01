@@ -1,14 +1,24 @@
 # Pipeline de Big Data - Análise de Filmes
 ## Projeto Final - Fundamentos de Big Data
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ptojal1/projeto-bigdata-av2/blob/main/notebooks/movies_pipeline_completo_AV2.ipynb)
+[![GitHub](https://img.shields.io/badge/GitHub-ptojal1%2Fprojeto--bigdata--av2-blue?logo=github)](https://github.com/ptojal1/projeto-bigdata-av2)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+
 **Instituição:** [Nome da Instituição]  
 **Disciplina:** Fundamentos de Big Data  
 **Equipe:**
-- Membro 1
-- Membro 2  
-- Membro 3
+- Pedro Tojal de Medeiros
+- [Membro 2]  
+- [Membro 3]
 
 **Data:** Dezembro de 2025
+
+**🔗 Links Rápidos:**
+- [📓 Executar no Google Colab](https://colab.research.google.com/github/ptojal1/projeto-bigdata-av2/blob/main/notebooks/movies_pipeline_completo_AV2.ipynb)
+- [📖 Guia do Colab](GUIA_COLAB.md)
+- [✅ Checklist AV2](CHECKLIST_AV2.md)
+- [🏗️ Arquitetura](documentacao/ARQUITETURA.md)
 
 ---
 
