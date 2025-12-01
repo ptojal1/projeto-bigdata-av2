@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ptojal1%2Fprojeto--bigdata--av2-blue?logo=github)](https://github.com/ptojal1/projeto-bigdata-av2)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 
-**Instituição:** [Nome da Instituição]  
+**Instituição:** Cesar School 
 **Disciplina:** Fundamentos de Big Data  
 **Equipe:**
 - Pedro Tojal
