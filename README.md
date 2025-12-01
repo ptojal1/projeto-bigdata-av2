@@ -519,41 +519,5 @@ projeto-bigdata-av2/
 
 ---
 
-## 📊 Estatísticas do Projeto
 
-- **Linhas de Código:** ~800
-- **Datasets Processados:** 3 (movies, credits, ratings)
-- **Registros Analisados:** ~45.000 filmes
-- **Visualizações Criadas:** 15+
-- **Insights Gerados:** 20+
-
----
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/NovaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona NovaFeature'`)
-4. Push para a branch (`git push origin feature/NovaFeature`)
-5. Abra um Pull Request
-
----
-
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins acadêmicos na disciplina de Fundamentos de Big Data.
-
----
-
-## 📧 Contato
-
-Para dúvidas ou sugestões, entre em contato com a equipe:
-- **Email:** [email da equipe]
-- **GitHub:** [link do repositório]
-
----
-
-**Última atualização:** Dezembro de 2025
 
